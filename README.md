@@ -1,1 +1,1 @@
-# a game created by a Ruby library "gosu"
+# a game created by the Ruby gem "gosu"
